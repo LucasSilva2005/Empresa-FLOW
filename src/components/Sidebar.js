@@ -40,7 +40,7 @@ const Sidebar = ({ activeSection, onSectionChange }) => {
             <Building2 className="w-8 h-8 text-white" />
           </div>
           <div>
-            <h1 className="text-xl font-bold text-gray-900">EmpresaFlow</h1>
+            <h1 className="text-xl font-bold text-gray-900">ELOS</h1>
             <p className="text-sm text-gray-500">Gestão Inteligente</p>
           </div>
         </motion.div>
